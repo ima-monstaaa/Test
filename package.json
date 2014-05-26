@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "web-dev",
+=======
+  "name": "HW-app",
+>>>>>>> 0be8355c20b3e0b09857deab2073d36906ed4e28
   "version": "0.0.1",
   "private": true,
   "scripts": {
